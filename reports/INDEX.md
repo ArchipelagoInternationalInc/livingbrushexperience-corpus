@@ -2,6 +2,7 @@
 
 One line per report: date, title, link.
 
+- 2026-10-25, Madelyn's Ta-Ta pictures moved out of Live painting, [reports/2026-10-25-tata-pictures-moved.md](2026-10-25-tata-pictures-moved.md)
 - 2026-10-25, New photos, face art and a burlesque video (update-05), [reports/2026-10-25-new-photos-face-art-video.md](2026-10-25-new-photos-face-art-video.md)
 - 2026-10-21, The couples picture on the home page, uncropped (update-04), [reports/2026-10-21-couples-picture-uncropped.md](2026-10-21-couples-picture-uncropped.md)
 - 2026-10-21, Scott's image edits (update-03), [reports/2026-10-21-image-edits-update-03.md](2026-10-21-image-edits-update-03.md)
